@@ -3,7 +3,7 @@
 # ====================================
 
 # Getting Proxy Template
-wget -q -O /usr/local/bin/edu-ssh http://file.panel-vpn.biz/script/proxy-template.py
+wget -q -O /usr/local/bin/edu-ssh https://raw.githubusercontent.com/nishatvpn/vpnscriptauto/main/proxy-template.py
 chmod +x /usr/local/bin/edu-ssh
 
 # Installing Service
